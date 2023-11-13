@@ -7,8 +7,7 @@ import ActionButtons from './components/ActionButtons'
 import Footer from './components/Footer'
 import './App.css'
 
-export default function App ()
-{
+export default function App() {
   const {
     adjustTime,
     breakTime,
@@ -29,12 +28,12 @@ export default function App ()
           <Header />
           <MagicExit>
             <section className="flex flex-col justify-center gap-8">
-              <TimerControl adjustTime={ adjustTime } minutes={ mmTimer } seconds={ ssTimer } />
-              <TimerButtons selectTimer={ selectTimer } selectedOption={ selectedOption } />
-              <ActionButtons isRunning={ isRunning } resetTimer={ resetTimer } toggleTimer={ toggleTimer } />
+              <TimerControl adjustTime={adjustTime} minutes={mmTimer} seconds={ssTimer} />
+              <TimerButtons selectTimer={selectTimer} selectedOption={selectedOption} />
+              <ActionButtons isRunning={isRunning} resetTimer={resetTimer} toggleTimer={toggleTimer} />
             </section>
           </MagicExit>
-          <Footer rounds={ rounds } breakTime={ breakTime } />
+          <Footer rounds={rounds} breakTime={breakTime} />
         </section>
       </main>
     </MagicMotion>
