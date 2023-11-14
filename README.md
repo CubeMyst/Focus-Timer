@@ -23,12 +23,6 @@ La **Focus Timer App** es una aplicación de temporizador de enfoque simple que 
 
 *Vista principal de la aplicación*
 
-<video autoplay loop muted>
-	<source src="https://github.com/CubeMyst/Focus-Timer/assets/97372908/465ecc4a-a6f1-4018-9924-2374513db66e" type="video/mp4">
-</video>
-
-*Temporizador en funcionamiento*
-
 ## Personalización
 
 Puedes personalizar la duración de los temporizadores ajustando las variables en el archivo de configuración.
@@ -49,6 +43,3 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 3- Realiza tus cambios y haz commit de tus modificaciones (git commit -m 'Añadir nueva funcionalidad').
 4- Sube tus cambios a tu repositorio (push a tu rama).
 5- Crea una nueva solicitud de extracción (Pull Request) en GitHub.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](./LICENSE) para obtener más detalles.
