@@ -19,7 +19,7 @@ La **Focus Timer App** es una aplicación de temporizador de enfoque simple que 
 
 ## Capturas de Pantalla
 
-![image](https://github.com/CubeMyst/Focus-Timer/assets/97372908/3bfb6ba9-f092-4489-b831-ea3bfd7f611a)
+![image](./screenshot.png)
 
 *Vista principal de la aplicación*
 
