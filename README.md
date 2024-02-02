@@ -1,5 +1,9 @@
 # Focus Timer App
 
+![image](./screenshot.png)
+
+*Vista principal de la aplicación*
+
 La **Focus Timer App** es una aplicación de temporizador de enfoque simple que te ayuda a administrar tu tiempo de trabajo y descanso. Puedes configurar temporizadores para sesiones de trabajo enfocado, cortos descansos y largos descansos, y llevar un registro de las rondas completadas.
 
 ## Características
@@ -16,12 +20,6 @@ La **Focus Timer App** es una aplicación de temporizador de enfoque simple que 
 2. Instala las dependencias utilizando `npm install` o `yarn install`.
 3. Ejecuta la aplicación con `npm start` o `yarn start`.
 4. La aplicación se abrirá en tu navegador web.
-
-## Capturas de Pantalla
-
-![image](./screenshot.png)
-
-*Vista principal de la aplicación*
 
 ## Personalización
 
